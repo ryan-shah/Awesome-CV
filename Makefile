@@ -31,9 +31,7 @@ clean:
 	$(EXAMPLES_DIR)/*.log \
 	$(EXAMPLES_DIR)/*.out \
 	$(EXAMPLES_DIR)/*.gz \
-	$(EXAMPLES_DIR)/*.pdf \
 	$(OUT_DIR)/*.aux \
 	$(OUT_DIR)/*.log \
 	$(OUT_DIR)/*.out \
 	$(OUT_DIR)/*.gz \
-	$(OUT_DIR)/*.pdf

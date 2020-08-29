@@ -8,7 +8,6 @@
 *.out
 *.toc
 *.gz
-*.pdf
 
 ## Intermediate documents:
 *.dvi

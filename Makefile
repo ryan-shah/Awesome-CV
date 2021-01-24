@@ -35,3 +35,7 @@ clean:
 	$(OUT_DIR)/*.log \
 	$(OUT_DIR)/*.out \
 	$(OUT_DIR)/*.gz \
+	*.aux \
+	*.log \
+	*.out \
+	*.gz
